@@ -1,0 +1,17 @@
+h1{
+  color: rgb(241, 224, 149);
+  -webkit-text-stroke-width: 0.6px;
+  -webkit-text-stroke-color:black  ;
+  
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  color: azure;
+  
+}
+
+body{
+  background-color: brown;
+}
