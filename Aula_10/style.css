@@ -1,0 +1,11 @@
+div#area{
+  font: normal 20 pt Arial;
+  background-color: green;
+  color: white;
+  height: 200px;
+  width: 200px;
+  line-height: 200px;
+  text-align: center;
+
+
+}
