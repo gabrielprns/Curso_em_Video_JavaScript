@@ -1,0 +1,18 @@
+p#par{
+  font-family:  Arial, sans-serif;
+  font-size: larger;
+  padding-bottom: 10px;
+
+}
+
+input#b{
+  font-family:  Arial, sans-serif;
+  font-size: large;
+}
+
+div#res{
+  font-family:  Arial, sans-serif;
+  font-size: larger;
+  padding-top: 20px;
+  color: cadetblue;
+}
