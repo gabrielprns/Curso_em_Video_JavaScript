@@ -15,11 +15,22 @@
 
   <section>
     <div>
-     
+     <p>Ano de Nascimento:
+       <input type="number" name="txtano" id="txtano" min="1930" max="2022">
+     </p>
+     <p>Sexo
+       <input type="radio" name="radsex" id="mas" checked>
+       <label for="mas">Masculino</label>
+       <input type="radio" name="radsex" id="fem">
+       <label for="mas">Feminino</label> 
+     </p>
+     <p>
+       <input type="button" value="verificar" onclick="verificar()">
+     </p>
     </div>
 
-    <div id="idade">
-
+    <div id="res">
+      Preencha os dados acima para ver o resultado!!!
     </div>
 
   </section>
