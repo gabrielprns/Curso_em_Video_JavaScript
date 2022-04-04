@@ -1,2 +1,2 @@
-let r = 12 ;
-let h = 13 ;
+let num = [4,9,7] ;
+console.log(`o vetor é ${num}`);
