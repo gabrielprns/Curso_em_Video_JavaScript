@@ -16,6 +16,9 @@ section{
   width: 500px;
   margin: auto;
 }
+select#flista{
+  width: 150px;
+}
 
 footer{
   color: white;
